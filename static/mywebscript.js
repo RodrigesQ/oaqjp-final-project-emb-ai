@@ -1,3 +1,5 @@
+//mywebscript.js
+
 let RunSentimentAnalysis = ()=>{
     textToAnalyze = document.getElementById("textToAnalyze").value;
 
